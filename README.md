@@ -1,11 +1,11 @@
 ## Salut!
 
-This is **Ahnaf**. I am an undergrad student pursuing my BSc in **Computer Science** from **BRAC University**. I am interested in **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, 
-**Natural Language Processing**, **Data Science**, and **Computer Networks**
+This is **Ahnaf**. I am an undergrad student pursuing my BSc in **Computer Science** from **BRAC University**. I am interested in **Artificial Intelligence**, specifically **ML**, **DL**, and 
+**NLP**.
 
 - 📚 I’m currently learning various Software Development techniques, Large Language Models, and State Space Models
 - 👨‍💻 I’m working on a few projects involving Software Development, Assembly Programming, and LLMs
-- 🌟 Fun fact: I like music, astro, and wildlife photography
+- 🌟 About me: I like music, astro, and wildlife photography
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
