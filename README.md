@@ -5,7 +5,7 @@ This is **Ahnaf**. I am an undergrad student pursuing my BSc in **Computer Scien
 
 - 📚 I’m currently learning various Software Development techniques, Large Language Models, and State Space Models
 - 👨‍💻 I’m working on a few projects involving Software Development, Assembly Programming, and LLMs
-- 🌟 About me: I like music, astro, and wildlife photography
+- 🌟 About me: I like music, evolutionary biology, astro and wildlife photography
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
