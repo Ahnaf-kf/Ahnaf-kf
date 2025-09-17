@@ -1,7 +1,7 @@
 ## Salut!
 
 This is **Ahnaf**. I am an undergrad student pursuing my BSc in **Computer Science** from **BRAC University**. I am interested in **Artificial Intelligence**, specifically **ML**, **DL**, and 
-**NLP**.
+**Bioinformatics**.
 
 - 📚 I’m currently learning various Software Development techniques, Large Language Models, and State Space Models
 - 👨‍💻 I’m working on a few projects involving Software Development, Assembly Programming, and LLMs
