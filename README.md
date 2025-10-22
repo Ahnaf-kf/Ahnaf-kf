@@ -1,9 +1,9 @@
 ## Salut!
 
-This is **Ahnaf**. I am an undergrad student pursuing my BSc in **Computer Science** from **BRAC University**. I am interested in **Artificial Intelligence**, specifically **ML**, **DL**, and 
+This is **Ahnaf**. I am a prospective graduate student with a BSc in **Computer Science** from **BRAC University**. I am interested in **Artificial Intelligence**, specifically **ML**, **DL**, and 
 **Bioinformatics**.
 
-- 📚 I’m currently learning about Evolutionary Genomics, Large Language Models, and State Space Models
+- 📚 I’m currently learning about Evolutionary Genomics, Bioinformatics, Large Language Models, and State Space Models
 - 👨‍💻 I’m working on a few projects involving LLMs and SSMs
 - 🌟 About me: I like music, evolutionary biology, astro and wildlife photography
 <!--- 
