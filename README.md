@@ -1,6 +1,6 @@
 ## Hi!
 
-This is **Ahnaf**. I am a graduate student, studying **Cancer Genomics and Data Science** at **Queen Mary University of London**, United Kingdom. I have a BSc in **Computer Science** from **BRAC University**, Bangladesh. I am interested in **Artificial Intelligence**, **Machine Learning**, **Computational Biology**, and 
+This is **Ahnaf**. I am a graduate student, enrolled in **Cancer Genomics and Data Science** at **Barts Cancer Institute, Queen Mary University of London**, United Kingdom. I have a BSc in **Computer Science** from **BRAC University**, Bangladesh. I am interested in **Artificial Intelligence**, **Machine Learning**, **Computational Biology**, and 
 **Bioinformatics**.
 
 - 📚 I’m currently learning about Computational Genomics and Bioinformatics
