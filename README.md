@@ -1,9 +1,7 @@
 ## Hi!
 
 This is **Ahnaf**.
-<!---
-I am a graduate student enrolled in the **Cancer Genomics and Data Science** program at the **Barts Cancer Institute** at **Queen Mary University of London**, United Kingdom.
---->
+I am a graduate student enrolled in the **Cancer Genomics and Data Science** program at the **Barts Cancer Institute** - **Queen Mary University of London**, United Kingdom.
 I am currently working as a **Digitalyst** intern (BSS - AppDev) at **Banglalink Digital Communications Ltd.** I have a BSc in **Computer Science** from **BRAC University**, Bangladesh. I am interested in **Artificial Intelligence**, **Machine Learning**, **Computational Biology**, and 
 **Bioinformatics**.
 
