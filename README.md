@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## My Socials:
-[<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='40'>](https://www.instagram.com/ahnaf___akif/) [<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahnaf-kf/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt='instagram' height='40'>](https://www.instagram.com/ahnaf.kf/) [<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahnaf-kf/)
 <!---
 ## Languages:
 <b>🗣 Spoken:</b>
