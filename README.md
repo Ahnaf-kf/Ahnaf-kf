@@ -1,6 +1,4 @@
-## Hi!
-
-This is **Ahnaf**.
+## Hi! This is Ahnaf.
 
 I am a postgraduate student about to start my master's in **Bioinformatics and Systems Biology** at **The University of Manchester**, United Kingdom.
 I am currently working as a **Digitalyst** intern (Tech - BSS - AppDev) at **Banglalink Digital Communications Ltd.** I have a BSc in **Computer Science** from **BRAC University**, Bangladesh. I am interested in **Computational Biology**, **Bioinformatics**, **Machine Learning**, and **Artificial Intelligence**.
