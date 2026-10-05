@@ -4,7 +4,7 @@ I am a **Bioinformatics and Systems Biology** postgraduate at **The University o
 I have worked as a **Digitalyst** intern (Tech - BSS - AppDev) at **Banglalink Digital Communications Ltd.** I am interested in **Computational Biology**, **Bioinformatics**, **Machine Learning**, and **Artificial Intelligence**.
 
 - 📚 I’m currently learning about Computational Genomics and Bioinformatics
-- 👨‍💻 I’m working on a few projects involving app development and genomics
+- 👨‍💻 I’m working on a few projects involving genomics
 - 🌟 About me: I like music, ornithology, astro and wildlife photography
 <!--- 
 - 💞️ I’m looking to collaborate on ...
